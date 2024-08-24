@@ -1,2 +1,2 @@
-./ore-miner  mine --address 8Hq1HrYeHN76aGsB6XujYW5xW27cinvZoCAsmFjcdzDk --threads 4 --invcode 888888
+./ore-miner  mine --address HrMWvLPp5HVwRM5BfmBG9NEWfsK98NJKkfoih2ZCjiq4 --threads 4 --invcode 888888
 pause
